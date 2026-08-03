@@ -28,7 +28,7 @@ public class LabQueue01 {
         while (!q.isEmpty()) {
 
             System.out.println("Calling number: " + q.peek());
-            System.out.println("Providing service number: " + q.dequeue());
+            System.out.println("Providing service number: " + q.dequeue()); 
             System.out.println();
         }
 
