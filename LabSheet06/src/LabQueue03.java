@@ -9,7 +9,7 @@ public class LabQueue03 {
         Queue<Integer> q_number = new ArrayDeque<Integer>(Arrays.asList(10, 20, 30, 40, 50));
         System.out.println("Before reverse => " + q_number);
         reverse(q_number);
-        System.out.println("After  reverse => " + q_number); // expected result: [50, 40, 30, 20, 10]
+        System.out.println("After  reverse => " + q_number);
     }
 
     public static void reverse(Queue<Integer> queue) {
