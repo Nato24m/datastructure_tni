@@ -8,7 +8,7 @@ public class LabQueue04 {
 
     public static void main(String[] args) {
 
-        System.out.println("Press 1 Add a file to the queue");
+        System.out.println("Press 1 Add a file to the queue"); 
         System.out.println("Press 2 View the file");
         System.out.println("Press 3 Print the file");
 
