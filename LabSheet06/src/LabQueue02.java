@@ -15,7 +15,7 @@ public class LabQueue02 {
         System.out.println("Check Palindrome by Deque = "
                 + (checkByDeque(message.toLowerCase()) ? "Palindrome" : "Not Palindrome"));
         System.out.println("Check Palindrome by Stack = "
-                + (checkByStack(message.toLowerCase()) ? "Palindrome" : "Not Palindrome"));
+                + (checkByStack(message.toLowerCase()) ? "Palindrome" : "Not Palindrome")); 
 
     }
 
